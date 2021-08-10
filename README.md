@@ -14,4 +14,5 @@ O conceito destas classes é imaginar um menu interativo como uma matriz (bidime
 </p>
 
 ## Funcionamento
-A melhor forma de entender como essa classe funciona é olhar como ela é aplicada em um projeto, ou seja, a forma como outras classes herdam a classe Tela. Isso você pode observar no repositório .....
+A melhor forma de entender como essa classe funciona é olhar como ela é aplicada em um projeto, ou seja, a forma como outras classes herdam a classe 'Tela'. Isso você pode observar no repositório ..... Porém vale ressaltar o que o atributo 'int rastreioDeOpt' da classe 'Tela' representa.
+O atributo 'int rastreioDeOpt'
