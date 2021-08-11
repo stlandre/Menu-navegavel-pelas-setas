@@ -28,7 +28,7 @@ O atributo 'int rastreioDeOpt' serve para indicar qual a função de cada opçã
 	voltar
 	-----------------
   
-  As opções 'nome', 'sexo', '[]masculino', '[]feminino' e 'voltar' são de tipos diferentes.
+  As opções 'nome', 'sexo', '[ ]masculino', '[ ]feminino' e 'voltar' são de tipos diferentes.
   
 - 'nome' - espera-se que o usuário digite algo ao selecionar esta opção; 
 - 'sexo' - espera-se que o usuário selecione outras opções ao selecionar esta opção;  
