@@ -14,7 +14,7 @@ O conceito destas classes é imaginar um menu interativo como uma matriz (bidime
 </p>
 
 ## Funcionamento
-A melhor forma de entender como essa classe funciona é olhar como ela é aplicada em um projeto, ou seja, a forma como outras classes herdam a classe 'Tela'. Isso você pode observar no repositório ..... Porém vale ressaltar o que o atributo 'int rastreioDeOpt' da classe 'Tela' representa.
+A melhor forma de entender como essa classe funciona é olhar como ela é aplicada em um projeto, ou seja, a forma como outras classes herdam a classe 'Tela'. Isso você pode observar no repositório [Software-Cifras][1]. Porém vale ressaltar o que o atributo 'int rastreioDeOpt' da classe 'Tela' representa.
 
 O atributo 'int rastreioDeOpt' serve para indicar qual a função de cada opção. Por exemplo: 
 
@@ -45,3 +45,5 @@ Tipos:
 - (21) Flag para indicar que do lado esquerdo existe uma opção do tipo (2);
 - (3) Opções que são selecionadas pelas opções do tipo (2);
 - (4) Opções que levam à alguma tela;
+
+[1]: https://github.com/stlandre/Software-Cifras
